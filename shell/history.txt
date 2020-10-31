@@ -1,0 +1,20 @@
+bg 1
+jobs
+kjob 1 19
+jobs
+bg 1
+kjob 1 9
+jobs
+emacs &
+jobs
+vim
+vim &
+fg 4
+ps
+jobs
+vim
+jobs
+overkill
+vim
+ps
+emacs
